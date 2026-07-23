@@ -71,4 +71,4 @@ const b = 1;
 
 ## 开源协议
 
-[MIT](LICENSE)
+废弃掉：[MIT](LICENSE)
